@@ -43,7 +43,7 @@ The following table provides links to the pre-trained weights and saliency map r
 | Dataset   | Backbone         | Saliency Maps                                             | Model Weights                                             |
 |-----------|------------------|------------------------------------------------------------|-----------------------------------------------------------|
 | VDT-2048  | Swin Transformer | [Download](https://pan.baidu.com/s/1BPfIGuORWIFPvaljxTNxNA?pwd=bydf)| [Download](https://pan.baidu.com/s/1FlwS9pdcuVLw13ispbhlWA?pwd=a2nr)|
-| VDT-RW    | Swin Transformer | [Download](https://pan.baidu.com/s/1STXaAxphKCH8clVbfyt8GQ?pwd=9jee)| [Download]()|
+| VDT-RW    | Swin Transformer | [Download](https://pan.baidu.com/s/1STXaAxphKCH8clVbfyt8GQ?pwd=9jee)| [Download](https://pan.baidu.com/s/1n9zDe5OityRFuQhMke4hIg?pwd=setk)|
 | VDT-2048  | Mobilenetv3 | [Download](https://pan.baidu.com/s/1BPfIGuORWIFPvaljxTNxNA?pwd=bydf)| [Download](https://pan.baidu.com/s/1JLRsZVvmi4lIlT4cEfbKdA?pwd=ax8x)|
 | VDT-2048  | ResNet50 | [Download](https://pan.baidu.com/s/1BPfIGuORWIFPvaljxTNxNA?pwd=bydf)| [Download](https://pan.baidu.com/s/12vXLlNKhsgMa1DiLbHmtoA?pwd=e5ur)|
 | VDT-2048  | VGG16 | [Download](https://pan.baidu.com/s/1BPfIGuORWIFPvaljxTNxNA?pwd=bydf)| [Download](https://pan.baidu.com/s/1ca69iRIYO5Y0cxvWHNqKZA?pwd=hx34)|
