@@ -4,8 +4,8 @@ This repo is an official implementation of the *TriFuse*.
 **TriFuse: Revisiting Visible-Thermal-Depth Salient Object Detection through a Quality Lens**
 
 ## Prerequisites
+- The **VDT-RW** dataset is available at:https://pan.baidu.com/s/1rnOPWGQjthZdN3Qmqq7pUw?pwd=mvua.
 - The VDT-2048 dataset is available at:https://pan.baidu.com/s/1JyFBtjlJGf4GE2zeciN1wQ?pwd=bipy.
-- The *VDT-RW* dataset is available at:https://pan.baidu.com/s/1rnOPWGQjthZdN3Qmqq7pUw?pwd=mvua.
 - The pretrained weights for the backbone networks can be downloaded at:
 -  [SwinTransformer](https://pan.baidu.com/s/1lRKC_caVWzVuJwvVfsCWYg?pwd=3hj7).
 -  [Mobilenetv3](https://pan.baidu.com/s/1PDAgND6AxwZHUFlkx2KOTg?pwd=a4c8).
@@ -39,7 +39,7 @@ python TestVT.py
 ```
 
 ### 4. Evaluation
-The following table provides links to the pre-trained weights and saliency map results of IQFNet on various datasets:
+The following table provides links to the pre-trained weights and saliency map results of TriFuse on various datasets:
 | Dataset   | Backbone         | Saliency Maps                                             | Model Weights                                             |
 |-----------|------------------|------------------------------------------------------------|-----------------------------------------------------------|
 | VDT-2048  | Swin Transformer | [Download](https://pan.baidu.com/s/1BPfIGuORWIFPvaljxTNxNA?pwd=bydf)| [Download](https://pan.baidu.com/s/1FlwS9pdcuVLw13ispbhlWA?pwd=a2nr)|
