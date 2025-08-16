@@ -1,7 +1,7 @@
-# TriFuse: Revisiting Visible-Thermal-Depth Salient Object Detection through a Quality Lens
+# TriFuse: Revisiting Visible-Thermal-Depth Salient Object Detection through an Unbiased Quality Lens
 
 This repo is an official implementation of the *TriFuse*.
-**TriFuse: Revisiting Visible-Thermal-Depth Salient Object Detection through a Quality Lens**
+**TriFuse: Revisiting Visible-Thermal-Depth Salient Object Detection through an Unbiased Quality Lens**
 
 ## Prerequisites
 - The **VDT-RW** dataset is available at:https://pan.baidu.com/s/1rnOPWGQjthZdN3Qmqq7pUw?pwd=mvua.
